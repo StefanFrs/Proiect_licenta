@@ -1,181 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T14:26:13.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="0wjdrfonxXKdkxTFxSeE" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T21:38:02.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="8iyiXkuuc19oJLJl8aTj" version="14.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-13" value="Administratorul adauga premiile dorite&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="80" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Formular pentru înscriere" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="84" y="80" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-14" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="Xzsy9xGpPRZPQOXIFudG-15" source="Xzsy9xGpPRZPQOXIFudG-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="130" as="sourcePoint" />
+            <mxPoint x="390" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="385" y="150" />
+              <mxPoint x="385" y="150" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-15" value="Toate informațiile necesare sunt adăugate în baza de date și în interfață" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="170" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-18" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xzsy9xGpPRZPQOXIFudG-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="235" as="sourcePoint" />
+            <mxPoint x="385" y="260" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Înscriere validată" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="84" y="165" width="120" height="90" as="geometry" />
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-20" value="Se face extragerea" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="325" y="260" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Mesaj de eroare la câmpul completat greșit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="244" y="185" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-21" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry x="-0.1111" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
+            <mxPoint x="445" y="304.5" as="sourcePoint" />
+            <mxPoint x="470" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Trimiterea informațiilor în baza de date" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="84" y="285" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Mesaj de eroare în formular web" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="249" y="310" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Informațiile sunt adăugate în baza de date" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="79" y="420" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="cB2kttvUOlR2lClWSA6A-2" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-22" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xzsy9xGpPRZPQOXIFudG-20" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="154" y="265" as="sourcePoint" />
-            <mxPoint x="144" y="420" as="targetPoint" />
+            <mxPoint x="380" y="380" as="sourcePoint" />
+            <mxPoint x="385" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="144" y="420" />
+              <mxPoint x="385" y="370" />
+              <mxPoint x="385" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-0" value="Utilizatorul este redirecționat către o pagină de confirmare" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="79" y="490" width="130" height="50" as="geometry" />
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-23" value="Eroare în cazul în care nu sunt suficiente înscrieri" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="470" y="277.5" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-24" value="Caștigătorul va fi înștiințat printr-un mail" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="380" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-25" value="Pagina de confirmare a codului" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="325" y="470" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-28" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Xzsy9xGpPRZPQOXIFudG-25" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="244" y="185" as="sourcePoint" />
-            <mxPoint x="204" y="105" as="targetPoint" />
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="160" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="304" y="185" />
-              <mxPoint x="304" y="165" />
-              <mxPoint x="224" y="165" />
-              <mxPoint x="224" y="110" />
+              <mxPoint x="390" y="440" />
+              <mxPoint x="390" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="WIyWlLk6GJQsqaUBKTNV-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="314" y="290" as="sourcePoint" />
-            <mxPoint x="354" y="90" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="309" y="280" />
-              <mxPoint x="414" y="280" />
-              <mxPoint x="414" y="90" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-29" value="Pagina pentru alegerea premiului" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="325" y="559.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-5" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12">
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-30" value="Actualizarea finală a datelor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="325" y="650" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-32" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xzsy9xGpPRZPQOXIFudG-25" target="Xzsy9xGpPRZPQOXIFudG-29" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="144" y="490" as="sourcePoint" />
-            <mxPoint x="144" y="490" as="targetPoint" />
+            <mxPoint x="390" y="540" as="sourcePoint" />
+            <mxPoint x="-6" y="569.5" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-8" value="Datele sunt actualizate în interfata administratorului" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="79" y="559.5" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-9" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xzsy9xGpPRZPQOXIFudG-0" target="Xzsy9xGpPRZPQOXIFudG-8">
+        <mxCell id="Xzsy9xGpPRZPQOXIFudG-33" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="139" y="560" as="sourcePoint" />
-            <mxPoint x="154" y="520" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-13" value="Administratorul adauga premiile dorite&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="80" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-14" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="130" as="sourcePoint" />
-            <mxPoint x="550" y="170" as="targetPoint" />
+            <mxPoint x="389.5" y="619.5" as="sourcePoint" />
+            <mxPoint x="390" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="150" />
-              <mxPoint x="550" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-15" value="Toate informațiile necesare sunt adăugate în baza de date și în interfață" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="170" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-18" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xzsy9xGpPRZPQOXIFudG-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="235" as="sourcePoint" />
-            <mxPoint x="545" y="260" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-20" value="Se face extragerea" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="485" y="260" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-21" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-0.1111" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="605" y="304.5" as="sourcePoint" />
-            <mxPoint x="630" y="305" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-22" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xzsy9xGpPRZPQOXIFudG-20">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="540" y="380" as="sourcePoint" />
-            <mxPoint x="545" y="380" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="545" y="370" />
-              <mxPoint x="545" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-23" value="Eroare în cazul în care nu sunt suficiente înscrieri" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="277.5" width="120" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-24" value="Caștigătorul va fi înștiințat printr-un mail" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="380" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-25" value="Pagina de confirmare a codului" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="485" y="470" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-28" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Xzsy9xGpPRZPQOXIFudG-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="450" as="sourcePoint" />
-            <mxPoint x="320" y="460" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="550" y="440" />
-              <mxPoint x="550" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-29" value="Pagina pentru alegerea premiului" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="485" y="559.5" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-30" value="Actualizarea finală a datelor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="485" y="650" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-32" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xzsy9xGpPRZPQOXIFudG-25" target="Xzsy9xGpPRZPQOXIFudG-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="540" as="sourcePoint" />
-            <mxPoint x="154" y="569.5" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Xzsy9xGpPRZPQOXIFudG-33" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="549.5" y="619.5" as="sourcePoint" />
-            <mxPoint x="550" y="650" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="549.5" y="649.5" />
-              <mxPoint x="549.5" y="649.5" />
+              <mxPoint x="389.5" y="649.5" />
+              <mxPoint x="389.5" y="649.5" />
             </Array>
           </mxGeometry>
         </mxCell>
